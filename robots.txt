@@ -1,1 +1,1 @@
-Sitemap: https://ethen.market/sitemap.xml
+Sitemap: https://amisolution.github.io/ethmarket/sitemap.xml
