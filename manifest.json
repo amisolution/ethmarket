@@ -1,6 +1,6 @@
 {
-  "short_name": "Ethen",
-  "name": "Ethen – Decentralized ERC20 Exchange",
+  "short_name": "Ethmarket",
+  "name": "Ethmarket – Decentralized ERC20 Exchange",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "./ethmarket/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
